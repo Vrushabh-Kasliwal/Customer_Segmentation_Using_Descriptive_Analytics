@@ -1,4 +1,4 @@
-# Customer Segmentation Using Descriptive Analytics
+# Customer Segmentation Using Descriptive Analytics 
 
 ## Project Overview
 This project analyzes customer segmentation using descriptive analytics to identify key customer profiles and their treadmill preferences. The goal is to help the business optimize its product offerings and marketing strategies based on customer demographics, income, fitness levels, and product usage patterns.
